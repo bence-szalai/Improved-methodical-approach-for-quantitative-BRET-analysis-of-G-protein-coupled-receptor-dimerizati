@@ -205,7 +205,7 @@ class Receptor(object):
                 if i.a_or_d == 'A':
                     self.yfp = self.yfp + 0.2
                     self.rluc = self.rluc - 0.05
-            self.bret=(self.yfp,self.rluc)         
+            self.bret=self.yfp/self.rluc         
 
 def calculate_bret(rlist):
     bret = 0
