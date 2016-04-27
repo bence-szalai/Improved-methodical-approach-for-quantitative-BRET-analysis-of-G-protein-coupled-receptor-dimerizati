@@ -14,6 +14,7 @@ classical_qBRET.dat: 		data from classical qBRET experiments
 MC.py:				Python 2.7 source code for Monte Caelo simulations
 MC.dat:				data from Monte Carlo simulations
 inducible.dat:			data from inducible dimerization experiments
-GPCR.dat:			data from GPCR dimerization experiments
+GPCR2.dat:			data from GPCR dimerization experiments (updated with full experimental data)
+statistics.R:   R code for statistical analysis
 
-last updated: 2014.08.06.
+last updated: 2016.04.27.
