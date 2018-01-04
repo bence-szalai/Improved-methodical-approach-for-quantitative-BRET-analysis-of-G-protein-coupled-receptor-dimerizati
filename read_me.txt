@@ -13,6 +13,7 @@ read_me.txt: 			this file
 classical_qBRET.dat: 		data from classical qBRET experiments
 MC.py:				Python 2.7 source code for Monte Caelo simulations
 MC.dat:				data from Monte Carlo simulations
+MC_notebook.ipynb:   IPython notebook tutorial for the MC simulation
 inducible.dat:			data from inducible dimerization experiments
 GPCR2.dat:			data from GPCR dimerization experiments (updated with full experimental data)
 statistics.R:   R code for statistical analysis
