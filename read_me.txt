@@ -17,4 +17,4 @@ inducible.dat:			data from inducible dimerization experiments
 GPCR2.dat:			data from GPCR dimerization experiments (updated with full experimental data)
 statistics.R:   R code for statistical analysis
 
-last updated: 2016.04.27.
+last updated: 2018.01.04.
